@@ -1,6 +1,12 @@
  # This is the repository about what the papers I have read
 I am doing research about medicle information. I will arrange them as a reference for those have same research topic with me!
 
+## Deep EHR
+|Title|Year|Journal|Team|
+|---|---|---|---|
+|Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis|2017|JBHI|Benjamin Shickel|
+
+
 <!--- 
 [Download](http://pan.baidu.com/s/1o8G6Gxs)
 
