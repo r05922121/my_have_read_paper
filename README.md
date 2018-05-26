@@ -5,7 +5,7 @@ I am doing research about medicle information. I will arrange them as a referenc
 |Title|Year|Journal|Team|
 |---|---|---|---|
 |Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis|2017|JBHI|Benjamin Shickel|
-
+|Pacific-Asia Conference on Knowledge Discovery and Data Mining|2016|PAKDD|Trang Pham|
 
 <!--- 
 [Download](http://pan.baidu.com/s/1o8G6Gxs)
